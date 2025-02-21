@@ -10,7 +10,6 @@ developers and am now seeking a role where I can utilize my full-stack developme
 🤖 AI Digit Guesser: [MNIST Digit Guesser](https://mnist-digit-guesser.fly.dev/)
 
 **📧 richardcouzens96@gmail.com** 
-Always looking for interesting **open-source projects** to contribute to!
 
 **Tech Stack:**  
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
