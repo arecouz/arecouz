@@ -18,7 +18,5 @@ Always looking for interesting **open-source projects** to contribute to!
 - ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**GitHub Stats:**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arecouz&show_icons=true&theme=dark)
 
 
