@@ -1,13 +1,10 @@
-**Rich Couzens (He/Him)**  
- 🌎 **Surrey/London**
+**Currently** 
+Building **full-stack web apps** with fellow developers at **Founders and Coders**.
 
-**Websites:**  
+**Live:**  
 🧑 Personal Website: [richard.fly.dev](https://richard.fly.dev)  
 🍿 Movie Tracking Website: [Cine-Track](https://cine-track.fly.dev/)  
 🤖 AI Digit Guesser: [MNIST Digit Guesser](https://mnist-digit-guesser.fly.dev/)
-
-**Currently** 
-Building **full-stack web apps** with fellow developers at **Founders and Coders**.
 
 **Contact**: richardcouzens96@gmail.com  
 📧 Always looking for interesting **open-source projects** to contribute to!
