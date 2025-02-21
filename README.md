@@ -6,8 +6,8 @@ Building **full-stack web apps** with fellow developers at **Founders and Coders
 🍿 Movie Tracking Website: [Cine-Track](https://cine-track.fly.dev/)  
 🤖 AI Digit Guesser: [MNIST Digit Guesser](https://mnist-digit-guesser.fly.dev/)
 
-**Contact**: richardcouzens96@gmail.com  
-📧 Always looking for interesting **open-source projects** to contribute to!
+📧 **richardcouzens96@gmail.com** 
+Always looking for interesting **open-source projects** to contribute to!
 
 **Tech Stack:**  
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
