@@ -1,16 +1,16 @@
-**Hi, I'm Richard!** 👨‍💻  
-I'm a passionate developer based in **Surrey/London**
+**Rich Couzens (He/Him)**  
+ 🌎 **Surrey/London**
 
 **Websites:**  
-- Personal Website: [richard.fly.dev](https://richard.fly.dev)  
-- Movie Tracking Website: [Cine-Track](https://cine-track.fly.dev/)  
-- AI Digit Guesser: [MNIST Digit Guesser](https://mnist-digit-guesser.fly.dev/)
+🧑 Personal Website: [richard.fly.dev](https://richard.fly.dev)  
+🍿 Movie Tracking Website: [Cine-Track](https://cine-track.fly.dev/)  
+🤖 AI Digit Guesser: [MNIST Digit Guesser](https://mnist-digit-guesser.fly.dev/)
 
 **Currently** 
-Building **full-stack web apps** with fellow developers at **Founders and Coders**.
+🧑‍🤝‍🧑 Building **full-stack web apps** with fellow developers at **Founders and Coders**.
 
 **Contact**: richardcouzens96@gmail.com  
-Always looking for interesting **open-source projects** to contribute to!
+📧 Always looking for interesting **open-source projects** to contribute to!
 
 **Tech Stack:**  
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
