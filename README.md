@@ -7,7 +7,7 @@
 🤖 AI Digit Guesser: [MNIST Digit Guesser](https://mnist-digit-guesser.fly.dev/)
 
 **Currently** 
-🧑‍🤝‍🧑 Building **full-stack web apps** with fellow developers at **Founders and Coders**.
+Building **full-stack web apps** with fellow developers at **Founders and Coders**.
 
 **Contact**: richardcouzens96@gmail.com  
 📧 Always looking for interesting **open-source projects** to contribute to!
