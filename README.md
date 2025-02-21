@@ -1,12 +1,13 @@
 **Hi, I'm Richard!** 👨‍💻  
-I'm a passionate developer based in **Surrey/London**, currently attending the **Software Developers Cohort** at **Founders and Coders** for **Full Stack Web Development**. I'm building full-stack web applications with fellow developers.
+I'm a passionate developer based in **Surrey/London**
 
 **Websites:**  
 - Personal Website: [richard.fly.dev](https://richard.fly.dev)  
 - Movie Tracking Website: [Cine-Track](https://cine-track.fly.dev/)  
 - AI Digit Guesser: [MNIST Digit Guesser](https://mnist-digit-guesser.fly.dev/)
 
-**Currently**: Building **full-stack web apps** with fellow developers at **Founders and Coders**.
+**Currently** 
+Building **full-stack web apps** with fellow developers at **Founders and Coders**.
 
 **Contact**: richardcouzens96@gmail.com  
 Always looking for interesting **open-source projects** to contribute to!
@@ -18,6 +19,6 @@ Always looking for interesting **open-source projects** to contribute to!
 - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **GitHub Stats:**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=richardcouzens&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arecouz&show_icons=true&theme=dark)
 
 
