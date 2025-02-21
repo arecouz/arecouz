@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Richard (He/Him) 👨‍💻
+# 👋 Rich Couzens (He/Him) 👨‍💻
 
-# 🌍 Based in Surrey/London
+## 🌍 Based in Surrey/London
 
 ## 🌐 Websites
 - **My Website**: [richard.fly.dev](https://richard.fly.dev)
@@ -21,4 +21,4 @@
 - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=richardcouzens&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arecouz&show_icons=true&theme=dark)
