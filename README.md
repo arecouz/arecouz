@@ -18,11 +18,3 @@ developers and am now seeking a role where I can utilize my full-stack developme
 - ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=47A248)
 
 
-<a href="https://skyline.github.com/arecouz/2024"><img src="https://skyline.github.com/arecouz/2024.png" alt="GitHub Skyline" /></a>
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arecouz&theme=radical)
-
-![Snake animation](https://github.com/arecouz/arecouz/blob/output/github-contribution-grid-snake.svg)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arecouz&show_icons=true&theme=radical)
