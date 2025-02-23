@@ -19,7 +19,8 @@ developers and am now seeking a role where I can utilize my full-stack developme
 
 
 <a href="https://skyline.github.com/your-username/2024"><img src="https://skyline.github.com/arecouz/2024.png" alt="GitHub Skyline" /></a>
-![Snake animation](https://github.com/arecouz/your-username/blob/output/github-contribution-grid-snake.svg)
+
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arecouz&theme=radical)
 
 
