@@ -7,9 +7,8 @@ developers and am now seeking a role where I can utilize my full-stack developme
 **Live:**  
 🧑 Personal Website: [richard.fly.dev](https://richard.fly.dev)  
 🍿 Movie Tracking Website: [Cine-Track](https://cine-track.fly.dev/)  
-🤖 AI Digit Guesser: [MNIST Digit Guesser](https://mnist-digit-guesser.fly.dev/)
-📚 Stonewaters: [Book Recommender](https://pro0217-bookrecommender.onrender.com/)
-
+🤖 AI Digit Guesser: [MNIST Digit Guesser](https://mnist-digit-guesser.fly.dev/)  
+📚 **Stonewaters**: [Book Recommender](https://pro0217-bookrecommender.onrender.com/)
 
 **📧 richardcouzens96@gmail.com** 
 
@@ -18,5 +17,3 @@ developers and am now seeking a role where I can utilize my full-stack developme
 - ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=43853D)
 - ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB)
 - ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=47A248)
-
-
