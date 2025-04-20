@@ -8,6 +8,8 @@ developers and am now seeking a role where I can utilize my full-stack developme
 🧑 Personal Website: [richard.fly.dev](https://richard.fly.dev)  
 🍿 Movie Tracking Website: [Cine-Track](https://cine-track.fly.dev/)  
 🤖 AI Digit Guesser: [MNIST Digit Guesser](https://mnist-digit-guesser.fly.dev/)
+📚 Stonewaters: [Book Recommender](https://pro0217-bookrecommender.onrender.com/)
+
 
 **📧 richardcouzens96@gmail.com** 
 
