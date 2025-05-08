@@ -1,8 +1,6 @@
-👋 Hi!
+## 👋 Hi!
 
-After discovering my passion for software development, I taught myself computer science through online
-open-source courses while working full-time. I’ve built projects both solo and collaboratively with fellow
-developers and am now seeking a role where I can utilize my full-stack development skills!
+After discovering my passion for software development, I taught myself computer science through online open-source courses while working full-time. I’ve built projects both solo and collaboratively with fellow developers and am now seeking a role where I can utilize my full-stack development skills!
 
 **Live:**  
 🧑 Personal Website: [richard.fly.dev](https://richard.fly.dev)  
@@ -11,6 +9,31 @@ developers and am now seeking a role where I can utilize my full-stack developme
 📚 **Stonewaters**: [Book Recommender](https://pro0217-bookrecommender.onrender.com/)
 
 **📧 richardcouzens96@gmail.com** 
+
+---
+
+<table align='center'>
+  <tr>
+    <td >
+      <img src='assets/me.gif' alt='Personal Website'>
+    </td>
+    <td >
+      <img src='assets/cinetrack.gif' alt='CineTrack'>
+    </td>
+  </tr>
+  <tr>
+    <td >
+      <img src='assets/ai.gif' alt='AI Digit Guesser'>
+    </td>
+    <td>
+      <img src='assets/stonewaters.gif' alt='Stonewaters'>
+    </td>
+  </tr>
+</table>
+
+
+---
+
 
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=43853D)
 ![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=000000)
