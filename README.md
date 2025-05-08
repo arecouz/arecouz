@@ -2,11 +2,12 @@
 
 After discovering my passion for software development, I taught myself computer science through online open-source courses while working full-time. I’ve built projects both solo and collaboratively with fellow developers and am now seeking a role where I can utilize my full-stack development skills!
 
-**Live:**  
-🧑 Personal Website: [richard.fly.dev](https://richard.fly.dev)  
-🍿 Movie Tracking Website: [Cine-Track](https://cine-track.fly.dev/)  
-🤖 AI Digit Guesser: [MNIST Digit Guesser](https://mnist-digit-guesser.fly.dev/)  
-📚 **Stonewaters**: [Book Recommender](https://pro0217-bookrecommender.onrender.com/)
+🧑‍🎓 Currently at Founder and Coders, a coding cohort for full stack web development. 
+
+- 🧑 Personal Website: [richard.fly.dev](https://richard.fly.dev)  
+- 🍿 Movie Tracking Website: [Cine-Track](https://cine-track.fly.dev/)  
+- 🤖 AI Digit Guesser: [MNIST Digit Guesser](https://mnist-digit-guesser.fly.dev/)  
+- 📚 **Stonewaters**: [Book Recommender](https://pro0217-bookrecommender.onrender.com/)
 
 **📧 richardcouzens96@gmail.com** 
 
