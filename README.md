@@ -7,34 +7,11 @@ After discovering my passion for software development, I taught myself computer 
 - 🧑 Personal Website: [richard.fly.dev](https://richard.fly.dev)  
 - 🍿 Movie Tracking Website: [Cine-Track](https://cine-track.fly.dev/)  
 - 🤖 AI Digit Guesser: [MNIST Digit Guesser](https://mnist-digit-guesser.fly.dev/)  
-- 📚 **Stonewaters**: [Book Recommender](https://pro0217-bookrecommender.onrender.com/)
+- 📚 Stonewaters: [Book Recommender](https://pro0217-bookrecommender.onrender.com/)
 
 **📧 richardcouzens96@gmail.com** 
 
 ---
-
-<table align='center'>
-  <tr>
-    <td >
-      <img src='assets/me.gif' alt='Personal Website'>
-    </td>
-    <td >
-      <img src='assets/cinetrack.gif' alt='CineTrack'>
-    </td>
-  </tr>
-  <tr>
-    <td >
-      <img src='assets/ai.gif' alt='AI Digit Guesser'>
-    </td>
-    <td>
-      <img src='assets/stonewaters.gif' alt='Stonewaters'>
-    </td>
-  </tr>
-</table>
-
-
----
-
 
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=43853D)
 ![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=000000)
